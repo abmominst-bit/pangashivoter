@@ -1,0 +1,6 @@
+{
+  "name": "Union Voter List",
+  "description": "An interactive digital search, filter, and management system for Union Voters in Bangladesh, featuring visitor and admin dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
